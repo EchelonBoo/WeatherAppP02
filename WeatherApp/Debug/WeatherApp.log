@@ -1,0 +1,3 @@
+﻿  WeatherApp.cpp
+C:\Users\betha\Desktop\WeatherApp\WeatherApp\WeatherApp.cpp(148): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  WeatherApp.vcxproj -> C:\Users\betha\Desktop\WeatherApp\Debug\WeatherApp.exe
